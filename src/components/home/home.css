@@ -1,0 +1,66 @@
+
+.centered {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(6, 2, 9);
+    font-size: 160%;
+    font-family: 'Calibri';
+    font-family: "Spartan", sans-serif;
+    /* position: sticky; */
+    /* border: 100px;
+    border-color: red; */
+  }
+
+  .Images{
+    height: 100%;
+    width:100% ;
+    margin-top: 5px;
+    border-radius: 10px;
+    max-width: 100%;    
+  min-width: 1000px;
+  position: relative;
+  }
+  
+  /* .Navigation{
+   position: sticky;
+  } */
+
+  /* .sdk{
+    position: sticky;
+  } */
+  /* .slide{
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(6, 2, 9);
+    font-size: 200%;
+  }
+
+ .items
+ {
+    text-decoration: none;
+    color:white;
+    display: flex;
+    flex-direction: row-reverse;
+ }
+
+
+  header {
+    height: 10vh;
+    line-height: 10vh;
+    background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+    color: #fff;
+    position: relative;
+    z-index: 999;
+  }
+  
+  .flexSB{
+    flex-direction: row;
+  }
+
+  .sliding{
+    margin-top: 5000px;
+  } */

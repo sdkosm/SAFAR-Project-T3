@@ -1,0 +1,59 @@
+.section{
+    height: 100%;
+    width: 92%;
+    margin-left: 62px;
+}
+
+.rule{
+    background-color: rgb(235, 235, 235);
+    /* text-align: center; */
+    /* box-sizing: border-box; */
+    border-radius: 10px;
+    padding: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 32px;
+}
+.headname{
+    text-align: center;
+    font-size: 28px;
+}
+
+.demo{
+  text-align: center;
+  color: red;
+}
+
+.u{
+    color: rgb(17, 28, 233);
+}
+
+.dk1{
+    padding: 0 20px;
+}
+
+.h2{
+    font-size: 16px;
+  }
+
+.h3{
+  font-size: 18px;
+}
+
+.abbr{
+    margin: 20px 0;
+    border-collapse: collapse;
+}
+
+.theading{
+    text-align: center; 
+    padding: 10px 8px;
+}
+
+.td{
+    padding: 8px 10px; text-align: center; font-size: 12px;
+}
+
+.t2{
+    padding: 5px;
+}

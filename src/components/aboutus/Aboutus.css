@@ -1,0 +1,21 @@
+.mt-4{
+   border-radius: 100px;
+}
+
+.col-sm-3{
+    border-radius: 25px;
+    background-color: rgb(213, 217, 240);
+}
+
+h4{
+    font-size: 20px;
+    text-align: center;
+    font-weight: 560;
+}
+
+.content{
+   margin-top: 500px;
+}
+
+
+
