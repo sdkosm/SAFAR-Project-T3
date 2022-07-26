@@ -1,0 +1,5 @@
+This is the link of the project 
+https://safartrip.netlify.app
+
+It is a train booking project in which user can book train ticket 
+In this project we also provide the Admin SignUP/SiginIn In which Admin can create and modify the train details. And these trains are fetch by user in User login 
