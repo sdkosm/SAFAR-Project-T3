@@ -5,3 +5,12 @@ https://safartrip.netlify.app
 
 It is a train booking project in which user can book train ticket 
 In this project we also provide the Admin SignUP/SiginIn In which Admin can create and modify the train details. And these trains are fetch by user in User login 
+
+What stack, We used in our project !!
+
+Front end – React JS (HTML , CSS , Bootstrap , MDB Bootstrap ) 
+Backend  - Node JS
+Database: Firebase
+Hosting: By Netlify 
+Content Reference : IRCTC, RedBus, Confirm Ticket, Ixigo, E+asemytrip, Makemytrip
+Icon's: Fontawesome
